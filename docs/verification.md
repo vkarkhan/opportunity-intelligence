@@ -4,6 +4,7 @@ Validated locally on Windows PowerShell with Python 3.12.14, Node.js 24.14.0 and
 
 - Backend: 20 pytest cases passed; Ruff lint and formatting checks passed.
 - Frontend: ESLint and strict TypeScript passed; optimized Next.js 16.3.4 production build passed.
+- Clean `npm ci` and the documented development server startup were also verified.
 - Live API: `/health`, `/docs` and `POST /api/v1/opportunities/analyze` succeeded on port 8000.
 - Browser: all three examples populated the textarea and produced structured results through the running API. Observed job counts: 4 requirements, 2 gaps, 1 risk, 4 actions. Consulting: 4, 0, 1, 3. Hackathon: 4, 1, 0, 4.
 - Empty state, loading state, short-input validation, clear/reset, edited-input notice and result focus were checked.

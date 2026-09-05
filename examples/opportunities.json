@@ -1,0 +1,17 @@
+[
+  {
+    "id": "job",
+    "label": "Applied AI role",
+    "text": "Applied AI Engineer — Northstar Research (synthetic)\nWe are hiring an engineer to build practical AI tools for research teams.\nCandidates must have Python and API development experience.\nExperience evaluating model quality is required.\nTypeScript experience is preferred.\nThe role is remote within India.\nSuccess will be evaluated through reliability and documented evaluation results.\nThe engineer reports to the research platform lead."
+  },
+  {
+    "id": "consulting",
+    "label": "Consulting RFP",
+    "text": "Knowledge workflow pilot — Cedar Advisory (synthetic)\nWe seek a consultant for a small consulting engagement to improve internal knowledge discovery.\nThe consultant must review existing document workflows.\nDeliver a working search prototype and a handover report.\nThe prototype must use a supplied sample of confidential customer data.\nThe budget is INR 400,000 and delivery is required within six weeks.\nSuccess means finding the correct source for 18 of 20 agreed test questions.\nContact the operations sponsor to clarify access arrangements."
+  },
+  {
+    "id": "hackathon",
+    "label": "AI hackathon",
+    "text": "Useful AI Weekend — synthetic hackathon brief\nBuild a practical AI prototype that helps a community organization.\nTeams must use public or synthetic data only.\nSubmit source code, a three-minute demo and setup documentation.\nThe deadline is 48 hours after the event starts.\nJudging considers usefulness, technical quality and clarity of the demo.\nThe prize is a mentoring session; no cash prize is offered.\nAll work must be created during the event."
+  }
+]
